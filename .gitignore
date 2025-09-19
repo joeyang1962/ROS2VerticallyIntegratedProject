@@ -1,0 +1,12 @@
+build/
+install/
+log/
+.colcon_install_layout
+COLCON_IGNORE
+**/__pycache__/
+**/*.pyc
+**/CMakeFiles/
+**/CMakeCache.txt
+.vscode/
+.idea/
+.DS_Store

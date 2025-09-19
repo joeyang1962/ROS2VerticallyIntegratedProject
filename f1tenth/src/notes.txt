@@ -1,0 +1,7 @@
+ros2 launch f1tenth_stack bringup_launch.py
+
+checking the stack for build erros
+f1tenth_system is on humble-devel
+submodule teleop_tools/ was detached at d6fd091
+	this gives some warnings, switched to humble-devel
+submodule vesc is at ros2

@@ -1,0 +1,16 @@
+[submodule "src/f1tenth_system"]
+	path = src/f1tenth_system
+	url = https://github.com/Nick-Zhang1996/f1tenth_system
+	branch = humble-devel
+[submodule "src/f1tenth_gym_ros"]
+	path = src/f1tenth_gym_ros
+	url = https://github.com/Nick-Zhang1996/f1tenth_gym_ros
+	branch = main
+[submodule "src/dcsl_f1tenth"]
+	path = src/dcsl_f1tenth
+    url = https://github.gatech.edu/zzhang615/dcsl_f1tenth.git
+	branch = master
+[submodule "src/autoware_auto_msgs"]
+	path = src/autoware_auto_msgs
+	url = git@github.com:Nick-Zhang1996/autoware_auto_msgs.git
+	branch = master
